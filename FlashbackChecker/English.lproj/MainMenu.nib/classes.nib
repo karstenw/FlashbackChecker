@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {checkForInfection = id; }; 
+            CLASS = FlashbackCheckerAppDelegate; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {textView = id; window = id; }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

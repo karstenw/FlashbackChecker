@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'FlashbackChecker_Tiger' target in the 'FlashbackChecker_Tiger' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
