@@ -1,3 +1,16 @@
+###
+
+Note: This Fork is a back port of https://github.com/jils/FlashbackChecker to OSX 10.4 Universal Binary.
+
+The NIB file has been recreated as the screenshot and interface file suggested. The code has minimal changes to accomodate 10.4 and some cosmetic changes (warnings surrounded by newlines; some pragma unused to silence warnings)
+
+If you have OSX 10.5 or higher, use the original:
+
+https://github.com/jils/FlashbackChecker
+
+
+###
+
 Flashback checker runs the tests described in the F-Secure Bulletin:
 http://www.f-secure.com/v-descs/trojan-downloader_osx_flashback_i.shtml
 
@@ -9,4 +22,3 @@ No affiliation with F-Secure.
 Supports 10.5 and up, PPC and Intel clients.
 Juan I. Leon
 April 6th, 2012
-
